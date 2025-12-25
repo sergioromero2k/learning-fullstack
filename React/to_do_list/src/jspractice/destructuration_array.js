@@ -4,3 +4,9 @@ const user = {
   age: "45",
 };
 
+const {name,surname,age} = user;
+
+console.log(age);
+console.log(name);
+console.log(surname);
+
